@@ -1,4 +1,6 @@
-# React Native App
+# React Native App 
+
+(Yes, it is another To Do app. Ha!)
 
 1. Download the repo and ensure [Node](https://nodejs.org/en/) is installed!
 1. `npm install` inside the repo in a terminal
